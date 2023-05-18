@@ -1,0 +1,8 @@
+app:
+  jwt:
+    access:
+      secret:
+      expiration:
+    refresh:
+      secret:
+      expiration:

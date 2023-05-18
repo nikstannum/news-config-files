@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          user-data-service:
+            url: http://localhost:8081
+  application:
+    name: user-authentication-service
+server:
+  port: 8091
