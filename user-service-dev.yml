@@ -4,7 +4,7 @@ spring:
       time-to-live: 60
 app:
   cache:
-    enable: false
+    enable: true
     type: LFU
     size: 4
     time-to-live: 60
