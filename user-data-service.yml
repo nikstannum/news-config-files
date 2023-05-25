@@ -17,8 +17,6 @@ spring:
       pageable:
         default-page-size: 10
         max-page-size: 30
-server:
-  port: 8080
 eureka:
   client:
     service-url:

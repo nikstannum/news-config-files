@@ -11,5 +11,3 @@ spring:
     name: news-service
   cache:
     type: REDIS
-server:
-  port: 8080
