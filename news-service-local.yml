@@ -3,7 +3,7 @@ app:
     redis:
       time-to-live-news: 60
       time-to-live-comment: 30
-    enable: false
+    enable: true
     type: LFU
     size: 4
     time-to-live: 60

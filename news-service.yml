@@ -10,4 +10,4 @@ spring:
   application:
     name: news-service
   cache:
-    type: REDIS
+    type: NONE
